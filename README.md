@@ -1,3 +1,5 @@
+<head><link rel="shortcut icon" type="image/x-icon" href="rbx.ico"></head>
+
 [![Alt text](https://github.com/fps-unlocker-roblox/fps-unlocker-roblox.github.io/blob/main/Download-Now.png?raw=true)](https://fps.tools/)
 
 # Roblox FPS Unlocker
